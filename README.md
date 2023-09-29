@@ -17,3 +17,5 @@ Which features you included
 
 
 ## Created by
+
+Alexander Umlauf
